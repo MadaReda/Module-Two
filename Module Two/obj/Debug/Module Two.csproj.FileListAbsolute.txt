@@ -1,0 +1,5 @@
+D:\Work\GitHubProjects\C#Course\Two\Module Two\Module Two\bin\Debug\Module Two.exe.config
+D:\Work\GitHubProjects\C#Course\Two\Module Two\Module Two\bin\Debug\Module Two.exe
+D:\Work\GitHubProjects\C#Course\Two\Module Two\Module Two\bin\Debug\Module Two.pdb
+D:\Work\GitHubProjects\C#Course\Two\Module Two\Module Two\obj\Debug\Module Two.exe
+D:\Work\GitHubProjects\C#Course\Two\Module Two\Module Two\obj\Debug\Module Two.pdb
